@@ -1,7 +1,5 @@
 import pygame.font
 
-import pygame.font
-
 class Scoreboard():
     """显示得分信息类"""
     def __init__(self,ai_settings,screen,stats):
